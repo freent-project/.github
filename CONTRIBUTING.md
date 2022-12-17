@@ -7,7 +7,7 @@ These are some guidelines you should follow when contributing to FreeNT software
 
 All FreeNT projects enforce the [Developer Certificate of Origin](https://developercertificate.org/).
 This makes sure everyone understands the word "Free" in the name of "FreeNT" as in freedom. You might
-not.
+not (unless you're Richard Stallman).
 
 In your commit description, use something like this:
 
