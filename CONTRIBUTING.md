@@ -15,6 +15,8 @@ In your commit description, use something like this:
 Signed-off-by: NT Bot Tim <freent@example.org>
 ```
 
+Change "NT Bot Tim" to your username, and `freent@example.org` to your email (or GitHub's noreply
+if you hide your email).
+
 *Note: NT Bot Tim is not a real person. FreeNT developers made that name up for use as an example
-in FreeNT documentation code examples, and is also used in OpenWindows in full name placeholders and
-lock screen text.*
+in FreeNT documentation code examples, and is also used in OpenWindows in full name placeholders.*
