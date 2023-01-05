@@ -26,7 +26,7 @@ Windows NT 3.1 was the first Windows NT kernel so FreeNT follows that.
 
 *For OpenWindows, get software from "OpenWindows Store" or using executables (for developer apps, enable dev mode).*
 
-This is a list of software OpenWindow uses in place of Microsoft Windows programs.
+This is a list of software OpenWindows uses in place of Microsoft Windows programs.
 
 | Microsoft App       | OpenWindows App     | Purpose               |
 |---------------------|---------------------|-----------------------|
