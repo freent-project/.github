@@ -17,3 +17,7 @@ LIGHTWEIGHT. OpenExplorer is the file manager UI used by OpenWindows Workstation
 OpenWindows offers "dev mode" which enables installation of executables without a signature.
 If you are here to contribute, enable it.
 See the [docs](https://freent-project.github.io/freent31-docs).
+
+## Why is the first FreeNT version "3.1"?
+
+Windows NT 3.1 was the first Windows NT kernel so FreeNT follows that.
