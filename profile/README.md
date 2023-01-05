@@ -1,6 +1,6 @@
 <div align="center">
-<h3>FreeNT</h3>
-Open NT is dead, long live FreeNT
+<h3>FreeNT/OpenWindows</h3>
+Open NT is dead, long live FreeNT/OpenWindows
 </div>
 
 ## 
@@ -21,3 +21,17 @@ See the [docs](https://freent-project.github.io/freent31-docs).
 ## Why is the first FreeNT version "3.1"?
 
 Windows NT 3.1 was the first Windows NT kernel so FreeNT follows that.
+
+## Software
+
+*For OpenWindows, get software from "OpenWindows Store" or using executables (for developer apps, enable dev mode).*
+
+This is a list of software OpenWindow uses in place of Microsoft Windows programs.
+
+| Microsoft App       | OpenWindows App     | Purpose               |
+|---------------------|---------------------|-----------------------|
+| Microsoft Store     | OpenWindows Store   | Installing apps/games |
+| Microsoft Edge      | Firefox-openwindows | Web browsing          |
+| Xbox                | No OpenWindows app  | Gaming                |
+| cmd.exe             | fntsh.exe           | Command-line          |
+| *What did we miss?* |                     |                       |
