@@ -6,7 +6,7 @@ Open NT is dead, long live FreeNT/OpenWindows
 ## 
 
 FreeNT 3.1 is a more extendable version of Open NT, a project started in the near 2000s and appears to already
-be more "unmaintained" than a popular GitHub project.
+be more "unmaintained" than a popular GitHub project. FreeNT does not use code from Open NT.
 
 Similarly the [OpenWindows 11](https://freent-project.github.io/openwindows) OS, created by us, runs on
 FreeNT 3.1. OpenWindows replaces Windows with a project that does NOT track you, is more SECURE, and more
@@ -31,7 +31,7 @@ This is a list of software OpenWindows uses in place of Microsoft Windows progra
 | Microsoft App       | OpenWindows App         | Purpose               |
 |:--------------------|:------------------------|----------------------:|
 | Microsoft Store     | OpenWindows Store       | Installing apps/games |
-| Microsoft Edge      | Firefox-openwindows     | Web browsing          |
+| Microsoft Edge      | Firefox-openwindows (OpenWindows Surf)     | Web browsing          |
 | Xbox                | **No OpenWindows app**  | Gaming                |
 | cmd.exe             | fntsh.exe               | Command-line          |
-| *What did we miss?* |                         |                       |
+| *What did we miss?*                                                   |
