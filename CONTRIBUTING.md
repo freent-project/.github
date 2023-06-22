@@ -30,3 +30,7 @@ still proprietary, unless GitHub publicly discloses them theirselves.
 **Most contributors will not need to edit `settings.yml` unless it is a critical change that affects
 the repository, or the FreeNT Project altogether, whereas a discussion should be raised at
 [our forums](https://github.com/orgs/freent-project/discussions).**
+
+For a deeper understanding of the `settings.yml` syntax, see [*Learn X in Y minutes:
+Where X is yaml*](https://learnxinyminutes.com/docs/yaml/), and the [Probot app description](
+https://probot.github.io/apps/settings/).
