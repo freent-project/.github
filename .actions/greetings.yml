@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "Welcome to the FreeNT Project! We are open to all suggestions. We will review your issue when we have time."
+        pr-message: "Welcome to the FreeNT Project! We will review your Pull Request when we have time. Please note that obvious vandalism will result in being blocked from the project **as a whole** (not only this subproject)."
