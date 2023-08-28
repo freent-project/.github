@@ -37,8 +37,9 @@ These bans are similar to permanent bans, but the FreeNT project does not grant 
 This means the user will never be able to participate in the project, and will never be allowed to.
 We impose this for our security and to keep the FreeNT project a safe place.
 
-These occur when the attacker makes threats to at least 1,000 other FreeNT project members in the last 10 hours,
-and has never done any constructive work to improve the FreeNT Project.
+These occur when the attacker makes threats to at least 1,000 other FreeNT project members (including
+at least 10 Administrative Members), and has never done any constructive work to improve the FreeNT Project.
+This includes racism, scams, and others.
 
 This block is very rare.
 
