@@ -29,9 +29,10 @@ Windows NT 3.1 was the first Windows NT kernel so FreeNT follows that.
 This is a list of software OpenWindows uses in place of Microsoft Windows programs.
 
 | Microsoft App       | OpenWindows App         | Purpose               |
-|:--------------------|:------------------------|----------------------:|
+|:-------------------:|:-----------------------:|:---------------------:|
 | Microsoft Store     | OpenWindows Store       | Installing apps/games |
-| Microsoft Edge      | Firefox-openwindows (OpenWindows Surf)     | Web browsing          |
-| Xbox                | **No OpenWindows app**  | Gaming                |
+| Microsoft Edge      | ntfox (aka Surf)        | Web browsing          |
+| Xbox                | ?                       | Gaming                |
 | cmd.exe             | fntsh.exe               | Command-line          |
+| explorer.exe        | OpenExplorer.exe        | Shell                 |
 | *What did we miss?*                                                   |
