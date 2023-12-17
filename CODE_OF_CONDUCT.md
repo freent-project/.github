@@ -11,7 +11,7 @@ We therefore require that all participants in the FreeNT Project follow our guid
   And ALL CAPS is often seen as yelling, too.
 * Don't make threats.
 * Don't use people's fears and phobias as a tool to put them in anxiety. Be mindful of them.
-* Don't call people stupid, idiots, etc.
+* Don't call people "stupid", "idiots", etc.
 
 ## Reporting Abuse of this Document
 
@@ -23,7 +23,7 @@ You can also use GitHub's function to report content; this is enabled accross th
 
 ### Temporary Ban
 
-These bans will last 1 month of continuous exclusion. They are imposed for calling people stupid, idiots, etc, and
+These bans will last 1 month of continuous exclusion. They are imposed for calling people "stupid", "idiots", etc, and
 not being mindful of desicions, as well as not being mindful of what people consider offensive.
 
 ### Permanent Ban
@@ -33,15 +33,11 @@ or continue performing actions that lead to a temporary ban.
 
 ### God's Ban
 
-These bans are similar to permanent bans, but the FreeNT project does not grant attackers an unban.
+These bans are similar to permanent bans, but the FreeNT project does not grant violators an unban.
 This means the user will never be able to participate in the project, and will never be allowed to.
 We impose this for our security and to keep the FreeNT project a safe place.
 
-These occur when the attacker makes threats to at least 1,000 other FreeNT project members (including
-at least 10 Administrative Members), and has never done any constructive work to improve the FreeNT Project.
-This includes racism, scams, and others.
-
-This block is very rare.
+Reasons for this such ban includes racism, scams, and others. This ban is very rare.
 
 ## Content License for this Code of Conduct
 
